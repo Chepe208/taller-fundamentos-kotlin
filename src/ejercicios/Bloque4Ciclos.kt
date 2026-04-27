@@ -1,6 +1,7 @@
 package ejercicios
 
 fun ejecutarBloque4() {
+    println("\n CICLOS ")
 
     // 16. Conteo Simple
     println(" For de los numeros del 1 al 10")
